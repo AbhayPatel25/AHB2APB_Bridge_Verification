@@ -24,6 +24,6 @@
 ## BLOCK DIAGRAM:
 Here is the block diagram of the **AHB2APB BRIDGE**:
 
-![Router Block Diagram](images/router_architecture.png)
+![AHB2APB BRIDGE Block Diagram](images/router_architecture.png)
 
 This design consists of **FIFO, FSM, Synchronizer, and Registers**.
