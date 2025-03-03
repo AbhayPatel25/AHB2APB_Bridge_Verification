@@ -23,7 +23,8 @@
 - PSELx - A signal from the secondary decoder, within the peripheral bus bridge unit, to each peripheral bus slave x. This signal indicates that the slave device is selected and a data transfer is required. There is a PSELx signal for each bus slave.
 ## BLOCK DIAGRAM:
 Here is the block diagram of the **AHB2APB BRIDGE**:
-![AHB2APB BRIDGE Block Diagram](IMAGES/BLOCK_DIAGRAM_AHB2APB_BRIDGE.png)  
+<img src="IMAGES/BLOCK_DIAGRAM_AHB2APB_BRIDGE.png" alt="AHB2APB BRIDGE Block Diagram" width="400">
+<!--![AHB2APB BRIDGE Block Diagram](IMAGES/BLOCK_DIAGRAM_AHB2APB_BRIDGE.png)-->
 
 ## AHB PROTOCOL (WAVEFORMS):
 ![BASIC AHB TRANSFER WAVEFORM](IMAGES/BASIC_AHB_TRANSFER.png)
@@ -37,5 +38,6 @@ Here is the block diagram of the **AHB2APB BRIDGE**:
 ![APB WRITE TRANSFER WAVEFORM](IMAGES/APB_WRITE_TRANSFER.png)
 
 ## UVM TB ARCHITECTURE OF AHB2APB BRIDGE:
-<img src="IMAGES/UVM_TB_ARCH_AHB2APB_BRIDGE.jpg" alt="BURST TRANSFER INCR" width="400">
+<img src="IMAGES/UVM_TB_ARCH_AHB2APB_BRIDGE.jpg" alt="UVM TB ARCH AHB2APB BRIDGE" width="400">
+<!--![UVM TB ARCH AHB2APB BRIDGE](IMAGES/UVM_TB_ARCH_AHB2APB_BRIDGE.jpg)-->
 
