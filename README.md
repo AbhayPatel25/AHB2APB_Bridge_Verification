@@ -23,7 +23,7 @@
 - PSELx - A signal from the secondary decoder, within the peripheral bus bridge unit, to each peripheral bus slave x. This signal indicates that the slave device is selected and a data transfer is required. There is a PSELx signal for each bus slave.
 ## BLOCK DIAGRAM:
 Here is the block diagram of the **AHB2APB BRIDGE**:
-![AHB2APB BRIDGE Block Diagram](IMAGES/BLOCK_DIAGRAM_AHB2APB_BRIDGE.png)
+![AHB2APB BRIDGE Block Diagram](IMAGES/BLOCK_DIAGRAM_AHB2APB_BRIDGE.png)  
 
 ## AHB PROTOCOL (WAVEFORMS):
 ![BASIC AHB TRANSFER WAVEFORM](IMAGES/BASIC_AHB_TRANSFER.png)
